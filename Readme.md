@@ -16,6 +16,5 @@ Este pantalla gestionará la autenticación de usuarios en una aplicación Andro
 
 \## CONTADOR
 
-(https://github.com/joseluis-2003/GonzalezAlamoM01/blob/fb984eb4186c62b54963f37386971a29d299b866/contador.png)
-
+(https://github.com/joseluis-2003/GonzalezAlamoM01/blob/e056d05e18659db66dbca63302e4e955f402087b/contador.png)
 El codigo de esta pantalla representa la lógica de la actividad contador en una aplicación Android. La actividad se encarga de mostrar un mensaje de bienvenida personalizado en un TextView, utilizando el nombre de usuario pasado como extra desde la actividad anterior.
