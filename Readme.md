@@ -10,7 +10,7 @@ ponía “by nombre\_alumno”).\*\*(ACTUALIZADO)\*\*
 
 \## LOGIN
 
-(https://github.com/joseluis-2003/GonzalezAlamoM01/blob/fb984eb4186c62b54963f37386971a29d299b866/login.png)
+(https://github.com/joseluis-2003/GonzalezAlamoM01/blob/291b6e554784b0074fc52938356e1f84e0cca932/login.png)
 
 Este pantalla gestionará la autenticación de usuarios en una aplicación Android. La actividad login contiene campos para ingresar el nombre de usuario y la contraseña. Al hacer clic en el botón de inicio de sesión, verifica si las credenciales coinciden con "admin". Si es así, redirige al usuario a la actividad contador, pasando el nombre de usuario como un extra en el Intent. En caso contrario, muestra un mensaje de error en un TextView.
 
