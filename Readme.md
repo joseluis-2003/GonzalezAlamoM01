@@ -34,7 +34,11 @@ Lo primero para poder hacer el ejecicio es crearse una interfaz para poder hacer
 
 ![Captura 6](img/api.png)
 
-![Captura 6](img/consola.png)
+![Captura 7](img/consola.png)
+
+## Postman 
+
+![Captura 8](img/postman.png)
 
 
 
