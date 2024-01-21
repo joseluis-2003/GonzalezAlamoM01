@@ -11,10 +11,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GonzalezAlamoM03"
-        tools:targetApi="34">
+        tools:targetApi="34"
+        android:usesCleartextTraffic="true"
+
+        >
+
         <activity
             android:name=".login"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

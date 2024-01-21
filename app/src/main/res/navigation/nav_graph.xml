@@ -21,6 +21,11 @@
         android:label="fragment_info"
         tools:layout="@layout/fragment_info" />
     <fragment
+        android:id="@+id/apiFragment"
+        android:name="com.vedruna.gonzalezalamom03.ApiFragment"
+        android:label="fragment_api"
+        tools:layout="@layout/fragment_api" />
+    <fragment
         android:id="@+id/salirFragment"
         android:name="com.vedruna.gonzalezalamom03.SalirFragment"
         android:label="fragment_salir"
